@@ -11,7 +11,7 @@ export default function OverView({
     <div className=" rounded-md bg-light-grayish p-6 font-bold dark:bg-dBgCard">
       <div className=" mb-4 flex items-center justify-between">
         <p className="text-dGrayishT">{title}</p>
-        <img src={icon} />
+        <img src={icon} alt={`${title}-index`} />
       </div>
       <div className=" flex items-end justify-between">
         <span className=" block text-4xl dark:text-white">

@@ -8,7 +8,7 @@ export default function Follower({
     <div className=" relative mb-5 flex cursor-pointer flex-col items-center overflow-hidden rounded-md bg-light-grayish py-8 transition-transform duration-300 hover:translate-y-[-12px] dark:bg-dBgCard">
       <div className={` absolute left-0 top-0 h-1 w-full ${color}`}></div>
       <div className=" mb-6 flex gap-2">
-        <img className="w-6" src={icon} />
+        <img className="w-6" src={icon} alt={code} />
         <p className=" font-semibold text-dGrayishT">{user}</p>
       </div>
       <span className=" text-6xl font-bold text-vDBlue dark:text-white">
