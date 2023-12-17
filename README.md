@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/Mohamedate/map)
-- Live Site URL: [live site URL](https://map-atef.vercel.app)
+- Solution URL: [Click here](https://github.com/Mohamedate/social-challenge)
+- Live Site URL: [live site URL](https://social-atef.vercel.app)
 
 ### Built with
 
